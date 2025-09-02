@@ -465,3 +465,36 @@ nav ul li a{
     text-align: center;
     align-items: center;
 }
+/* Footer style */
+footer{
+    text-align: center;
+}
+.footer-subtitle{
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #5A5A5D;
+}
+.footer-icons{
+    margin-top: 33px;
+}
+.footer-icons a i {
+    margin-right: 23px;
+    text-decoration: none;
+    color: #424247;
+    margin-bottom: 50px;
+}
+hr{
+    width: 872px;
+    height: 1px;
+    margin: 0 auto;
+}
+.footer-rights{
+    margin-top: 50px;
+    margin-bottom: 12px;
+}
+.fa-solid{
+    margin-right: 2px;
+}
+
+

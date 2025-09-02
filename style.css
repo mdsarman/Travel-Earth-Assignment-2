@@ -46,7 +46,7 @@ nav ul li a{
 }
 /* banner Style Section */
 .banner-container{
-    background-image: url(/Images/banner.png);
+    background-image: url("/Images/banner.png");
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 992px;
@@ -337,7 +337,7 @@ nav ul li a{
     cursor: pointer;
 }
 .second-deals-container{
-    background-image: url('../Images/Group\ 40.png');
+    background-image: url("/Images/Group\ 40.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;

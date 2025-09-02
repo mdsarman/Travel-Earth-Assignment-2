@@ -1,4 +1,4 @@
-/* header */
+/* header Style Section*/
 header {
     margin: 52px 127px 49px 127px;
 }
@@ -44,7 +44,7 @@ nav ul li a{
 .bars{
     display: none;
 }
-/* banner  */
+/* banner Style Section */
 .banner-container{
     background-image: url(/Images/banner.png);
     background-repeat: no-repeat;
@@ -108,4 +108,39 @@ nav ul li a{
     margin-right: 23px;
     width: 1.5px;
     color: rgba(19, 19, 24, 0.70);
+}
+/* popular section  */
+.popular-container{
+    margin: 100px 127px 100px 127px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.popular-container img{
+    width: 100%;
+}
+.popular-content {
+    margin-right: 20px;
+}
+.popular-content h1{
+    font-size: 40px;
+    font-weight: 800;
+    color: #131318;
+    margin-bottom: 24px;
+}
+.popular-content p{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(19, 19, 24, 0.70);
+    margin-bottom: 24px;
+}
+.popular-content button {
+    background-color: #FF5400;
+    padding: 16px 20px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    border: 0;
+    border-radius: 8px;
+    letter-spacing: 2px;
 }

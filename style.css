@@ -45,8 +45,8 @@ nav ul li a{
     display: none;
 }
 /* banner Style Section */
-.banner-container{
-    background-image: url("/images/banner.png");
+.banner-container {
+    background-image: url("./images/banner.png");
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 992px;
@@ -249,12 +249,11 @@ nav ul li a{
     color: rgba(19, 19, 24, 0.70);
     margin: 20px 0px 20px 0px;
 }
-.first-deals-container{
-    background-image: url('../images/Group\ 39.png');
+.first-deals-container {
+    background-image: url("./images/Group 39.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
-    
 }
 .deal-main-container{
     width: 579px;
@@ -336,8 +335,8 @@ nav ul li a{
     border: 0;
     cursor: pointer;
 }
-.second-deals-container{
-    background-image: url("/images/Group\ 40.png");
+.second-deals-container {
+    background-image: url("./images/Group 40.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
